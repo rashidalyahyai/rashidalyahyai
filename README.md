@@ -6,7 +6,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
-END OF COMMENTS
+END OF COMMENTS @
  -->
 
 ```diff
